@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muaaz Elsayed
-- 👀 I’m interested in: C, C++, Python,bash, linux and yocto.
+- 👀 I’m interested in: IT, Networking C, C++, Python,bash, linux and yocto.
 - 🌱 I’m currently learning to be an embedded systems engineer.
 - 📫 How to reach me: Muath.elnggar@gmail.com
 
